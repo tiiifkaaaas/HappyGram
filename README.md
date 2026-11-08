@@ -1,6 +1,6 @@
 # 💬 HappyGram
 <p align="center">
-  <img src="assets/happygram-banner.png" width="100%" alt="HappyGram Messenger">
+  <img src="happygram-banner.png" width="100%" alt="HappyGram Messenger">
 </p>
 ### A modern messenger built for simple, fast and connected communication.
 
